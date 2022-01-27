@@ -1,0 +1,19 @@
+{
+  "name": "microfrontend-architecture-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi62/microfrontend-architecture-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi62/microfrontend-architecture-ui/issues"
+  },
+  "homepage": "https://github.com/abhi62/microfrontend-architecture-ui#readme"
+}
