@@ -6,6 +6,8 @@ on:
       - master
       - main
       - prod
+      - feature/*
+      - ui/*
     paths:
       - 'packages/container/**'
 
