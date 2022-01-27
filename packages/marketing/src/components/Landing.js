@@ -69,7 +69,6 @@ export default function Album() {
   return (
     <React.Fragment>
       <main>
-        <h1>Hi there! i am from MARKETING (React app)</h1>
         {/* Hero unit */}
         <div className={classes.heroContent}>
           <Container maxWidth='sm'>
