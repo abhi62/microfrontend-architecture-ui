@@ -6,6 +6,7 @@ function App() {
     <div>
       <h1>Hi there! i am from CONTAINER (React app)</h1>
       <hr />
+      <hr />
       <MarketingApp />
     </div>
   );
